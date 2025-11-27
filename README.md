@@ -34,7 +34,7 @@ Using Python (`pandas`, `numpy`, `scikit-learn`) and visualizations (`Matplotlib
   - **Optimize Turnover:** Implement a rapid sales strategy for newer, low-mileage vehicles to minimize depreciation losses.
   - **Next Steps:** Proceed with exploration of **non-linear models** (e.g., XGBoost, LightGBM) to capture complex feature interactions and improve $R^2$ beyond the current 41%.
 
-## 🔗 Link to Notebook: [car\_price\_analysis.ipynb](https://www.google.com/search?q=notebooks/car_price_analysis.ipynb)
+## 🔗 Link to Notebook: [car\_price\_analysis.ipynb](https://github.com/ylucki/Sell-A-Car/blob/main/sell_a_car.ipynb)
 
 ## 📁 Project Structure
 
@@ -47,8 +47,7 @@ Used-Car-Price-Analysis/
 │  ├─ numerical_vs_price_scatterplots.png
 │  ├─ categorical_features_boxplot_combined.png
 │  └─ manufacturer_boxplot_top10.png
-├─ notebooks/
-│  └─ car_price_analysis.ipynb
+├─ sell_a_car.ipynb
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
